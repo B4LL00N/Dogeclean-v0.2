@@ -1,0 +1,16 @@
+C:\Users\starr\Desktop\dogeclean\dogeclean\obj\Debug\netcoreapp3.1\dogeclean.csprojAssemblyReference.cache
+C:\Users\starr\Desktop\dogeclean\dogeclean\obj\Debug\netcoreapp3.1\Dogeclean.Form1.resources
+C:\Users\starr\Desktop\dogeclean\dogeclean\obj\Debug\netcoreapp3.1\dogeclean.Properties.Resources.resources
+C:\Users\starr\Desktop\dogeclean\dogeclean\obj\Debug\netcoreapp3.1\dogeclean.csproj.GenerateResource.cache
+C:\Users\starr\Desktop\dogeclean\dogeclean\obj\Debug\netcoreapp3.1\dogeclean.AssemblyInfoInputs.cache
+C:\Users\starr\Desktop\dogeclean\dogeclean\obj\Debug\netcoreapp3.1\dogeclean.AssemblyInfo.cs
+C:\Users\starr\Desktop\dogeclean\dogeclean\obj\Debug\netcoreapp3.1\dogeclean.csproj.CoreCompileInputs.cache
+C:\Users\starr\Desktop\dogeclean\dogeclean\bin\Debug\netcoreapp3.1\dogeclean.exe
+C:\Users\starr\Desktop\dogeclean\dogeclean\bin\Debug\netcoreapp3.1\dogeclean.deps.json
+C:\Users\starr\Desktop\dogeclean\dogeclean\bin\Debug\netcoreapp3.1\dogeclean.runtimeconfig.json
+C:\Users\starr\Desktop\dogeclean\dogeclean\bin\Debug\netcoreapp3.1\dogeclean.runtimeconfig.dev.json
+C:\Users\starr\Desktop\dogeclean\dogeclean\bin\Debug\netcoreapp3.1\dogeclean.dll
+C:\Users\starr\Desktop\dogeclean\dogeclean\bin\Debug\netcoreapp3.1\dogeclean.pdb
+C:\Users\starr\Desktop\dogeclean\dogeclean\obj\Debug\netcoreapp3.1\dogeclean.dll
+C:\Users\starr\Desktop\dogeclean\dogeclean\obj\Debug\netcoreapp3.1\dogeclean.pdb
+C:\Users\starr\Desktop\dogeclean\dogeclean\obj\Debug\netcoreapp3.1\dogeclean.genruntimeconfig.cache
